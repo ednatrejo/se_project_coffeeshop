@@ -197,3 +197,19 @@
   list-style-type: none;
   z-index: 2;
 }
+
+.reservation {
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+}
+
+.reservation__title {
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 52px;
+}
