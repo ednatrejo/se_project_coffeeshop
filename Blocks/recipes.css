@@ -1,0 +1,30 @@
+.recipes {
+  display: block;
+  background-color: #0a2750;
+  background-image: url(../images/background_recipes.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+
+}
+
+.recipes__title {
+  max-width: 580px;
+  padding-top: 100px;
+  margin-left: 80px;
+  font-family: "Inter",  Arial, sans-serif;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.recipes__subtitle {
+  display: block;
+  max-width: 430px;
+  margin-left: 80px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
