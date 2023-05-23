@@ -31,7 +31,7 @@ background-color: #0a2750;
 
 .recipes__videos {
   display: flex;
-  list-style-type: none;
+  list-style: none;
   justify-content: center;
   margin-top: 80px;
   gap: 40px;
