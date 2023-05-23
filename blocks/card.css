@@ -1,7 +1,6 @@
 .card {
   width: 540px;
-  margin: auto;
-}
+  }
 
 .card__title {
   font-family: "Inter", Arial, sans-serif;

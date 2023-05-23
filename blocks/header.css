@@ -34,10 +34,13 @@
 }
 
 .header__description {
-  font-family: "Noto Serif", "Times New Roman", serif;
+  max-width: 683px;
+  margin-top: 28px;
+  margin-left: 80px;
+  margin-bottom: 0;
+  font-family: "Noto Serif", Times New Roman, serif;
   font-size: 20px;
   line-height: 30px;
-  max-width: 683px;
 }
 
 .header__image {
@@ -66,12 +69,6 @@
   box-sizing: border-box;
 }
 
-.header__hours {
-  margin: 0;
-  padding: 0;
-}
-
 .header__paragraph {
   margin: 0;
-  padding: 0;
 }
