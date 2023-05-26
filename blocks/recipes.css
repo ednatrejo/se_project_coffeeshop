@@ -15,11 +15,8 @@ background-color: #0a2750;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-<<<<<<< HEAD
   padding-top: 100px;
   color: #fff;
-=======
->>>>>>> f974c95c4264c1e15b9c512f1556b82a30c41776
 }
 
 .recipes__subtitle {
@@ -30,31 +27,16 @@ background-color: #0a2750;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
-<<<<<<< HEAD
-  margin-top: 0;
-=======
-   margin-top: 0;
->>>>>>> f974c95c4264c1e15b9c512f1556b82a30c41776
-  margin-bottom: 0;
 }
 
 .recipes__videos {
-<<<<<<< HEAD
-  display: flex;
-  list-style: none;
-  justify-content: center;
-  margin-top: 80px;
-  gap: 40px;
-  padding-left: 0;
-=======
  display: flex;
   column-gap: 40px;
   justify-content: center;
   margin-top: 80px;
   padding-bottom: 215px;
     padding-left: 0;
->>>>>>> f974c95c4264c1e15b9c512f1556b82a30c41776
-  margin-top: 0;
+margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -67,14 +49,10 @@ background-color: #0a2750;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
-<<<<<<< HEAD
   margin-top: 0;
   margin-bottom: 0
-=======
-   margin-top: 0;
-  margin-bottom: 0;
->>>>>>> f974c95c4264c1e15b9c512f1556b82a30c41776
 }
+
 .recipes__iframe {
   border: none;
   width: 480px;
