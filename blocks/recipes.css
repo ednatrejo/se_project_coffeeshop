@@ -15,7 +15,6 @@ background-color: #0a2750;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  padding-top: 100px;
   color: #fff;
 }
 
@@ -27,6 +26,8 @@ background-color: #0a2750;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .recipes__videos {
@@ -34,10 +35,9 @@ background-color: #0a2750;
   column-gap: 40px;
   justify-content: center;
   margin-top: 80px;
-  padding-bottom: 215px;
     padding-left: 0;
-margin-top: 0;
   margin-bottom: 0;
+  list-style: none;
 }
 
 .recipes__video-caption {
@@ -49,7 +49,7 @@ margin-top: 0;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
-  margin-top: 0;
+  margin-top: 24px;
   margin-bottom: 0
 }
 
